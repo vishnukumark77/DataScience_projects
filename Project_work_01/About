@@ -1,0 +1,87 @@
+# ❤️ Heart Disease – Data Science & Machine Learning Analysis
+
+## 📌 Project Overview
+
+This project focuses on performing comprehensive Data Science analysis on a Heart Disease dataset using Python. It explores healthcare data to identify meaningful patterns, understand relationships between medical attributes, and investigate factors associated with heart disease.
+
+The project covers the complete Data Science workflow, starting from data preprocessing and Exploratory Data Analysis (EDA) to statistical analysis, dimensionality reduction, and Machine Learning techniques.
+
+## 🎯 Objectives
+- Understand the structure and characteristics of the Heart Disease dataset.
+- Perform Exploratory Data Analysis (EDA) to identify patterns and relationships.
+- Apply statistical techniques to analyze numerical features.
+- Perform data preprocessing and feature analysis.
+- Implement PCA and SVD for dimensionality reduction.
+- Visualize important patterns and correlations.
+- Explore data-driven approaches for heart disease analysis.
+
+## 🛠️ Technologies & Libraries
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook / Google Colab
+
+## 📊 Operations & Techniques Performed
+
+### 1. Data Loading & Understanding
+- Dataset loading and inspection
+- Dataset dimensions and data types
+- Statistical summary
+- Missing value identification
+
+### 2. Data Preprocessing
+- Missing value handling
+- Duplicate detection
+- Data cleaning
+- Feature scaling and standardization
+
+### 3. Exploratory Data Analysis (EDA)
+- Univariate and multivariate analysis
+- Distribution plots and histograms
+- Box plots and outlier detection
+- Correlation matrix and heatmaps
+- Feature-wise comparisons
+
+### 4. Statistical Analysis
+- Mean, median, mode, and standard deviation
+- Variance and distribution analysis
+- Correlation analysis
+- Statistical interpretation of medical attributes
+
+### 5. Dimensionality Reduction
+- Principal Component Analysis (PCA)
+- Singular Value Decomposition (SVD)
+- Explained variance analysis
+- Principal component visualization
+- Dimensionality reduction and feature representation
+
+### 6. Data Visualization
+- Histograms
+- Scatter plots
+- Box plots
+- Heatmaps
+- PCA and SVD visualizations
+
+### 7. Machine Learning Analysis
+- Feature selection and transformation
+- Model preparation
+- Model evaluation using appropriate performance metrics (where implemented)
+
+## 📈 Key Learning Outcomes
+- Practical understanding of the complete Data Science workflow.
+- Experience in analyzing healthcare datasets.
+- Understanding of statistical relationships in medical data.
+- Hands-on implementation of PCA and SVD.
+- Improved skills in Python-based data analysis and visualization.
+- Understanding how data science techniques can support healthcare research.
+
+## ⚠️ Disclaimer
+This project is developed for educational and research purposes only. The analysis is not intended for medical diagnosis or clinical decision-making.
+
+---
+**Domain:** Healthcare | Data Science | Machine Learning
+
+**Focus:** Data Analysis • EDA • Statistics • PCA • SVD • Feature Engineering • Visualization
